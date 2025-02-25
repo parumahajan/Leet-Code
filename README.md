@@ -1,3 +1,3 @@
 LEETCODE
 
-This reposito
+This repositor
