@@ -1,4 +1,4 @@
 LEETCODE
  
-This repository contains the code file
+This repository contains the code files
  
