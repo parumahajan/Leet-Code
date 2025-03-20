@@ -1,3 +1,3 @@
 LEETCODE
  
-This repository contains the cod
+This repository contains the code
