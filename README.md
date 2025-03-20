@@ -1,3 +1,3 @@
 LEETCODE
 
-This repository contains th
+This repository contains the
