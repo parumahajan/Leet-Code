@@ -1,4 +1,4 @@
 LEETCODE
  
-This repository contains the code files which have I have pr
+This repository contains the code files which have I have practiced on LeetCode.
  
